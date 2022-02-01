@@ -8,13 +8,13 @@ Departament, Managers, Salaray etc.
 ​
 
 ## Screenhsot of the first prompt to get list of all employees once application is loaded
-![Screenshot](public/images/AllemployeesTable.png)
+![Screenshot](assets/images/AllemployeesTable.png)
 
 ## Department Prompt Adding a Department
 ​
-![Screenshot](public/images/AddingDepartment.png)
+![Screenshot](assets/images/AddingDepartment.png)
 
 ## Showing A list of availlable Departments 
 ​
-![Screenshot](public/images/DepartmentList.png)
+![Screenshot](assets/images/DepartmentList.png)
 
