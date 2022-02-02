@@ -3,7 +3,7 @@
 
 Employee Tracker is a Content Mangemant System (CMS) that is built via command line.
 The goal of this application is to allow database management for all employees data without the need of writting SQL Queries ie.
-Departament, Managers, Salaray etc.
+Department, Managers, Salary etc.
 
 ​
 
